@@ -1,0 +1,16 @@
+/* === HELPER CLASSES === */
+.top10 			{margin-top: 10px;}
+.top20 			{margin-top: 20px;}
+.top40 			{margin-top: 40px;}
+.top100         {margin-top: 100px;}
+.bottom20		{margin-bottom: 20px;}
+.bottom40		{margin-bottom: 40px;}
+.noMargin 		{margin: 0;}
+.noPadding 		{padding: 0;}
+.noTop			{margin-top: 0}
+.w320 			{width:320px !important;}
+.text-right		{text-align: right !important;}
+.uppercase		{text-transform: uppercase;}
+.lowercase		{text-transform: lowercase;}
+.capitalize 		{text-transform: capitalize;}
+/* === END HELPER CLASSES === */
